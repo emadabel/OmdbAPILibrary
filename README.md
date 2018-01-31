@@ -10,7 +10,7 @@ Simple library based on OMDB Api, to get movies information. (https://www.omdbap
                 maven { url "https://jitpack.io" }
         }
         dependencies {
-                compile 'com.github.jitpack:gradle-simple:1.0'
+                compile 'com.github.emadabel:OmdbAPILibrary:v1.0.0'
         }
 
 * Get Api key from (https://www.omdbapi.com/).
