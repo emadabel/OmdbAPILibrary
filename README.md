@@ -12,9 +12,9 @@ Simple library based on OMDB Api, to get movies information. (https://www.omdbap
                 maven { url "https://jitpack.io" }
         }
         dependencies {
-                compile 'com.github.emadabel:OmdbAPILibrary:v1.0.0'
+                compile 'com.github.emadabel:OmdbAPILibrary:v1.0.1'
         }
 
 * Get Api key from (https://www.omdbapi.com/).
 * Add Internet permission in Manifest.xml
-* Do not use the library from the main thread. (look at the example app to see how to use and the commands).
+* Do not use the library from the main thread. (look at the example app to see how to use and all the methods).
