@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/emadabel/omdbapilibrary.svg)](https://jitpack.io/#emadabel/omdbapilibrary)
+
 # OmdbAPILibrary
 Simple library based on OMDB Api, to get movies information. (https://www.omdbapi.com/) for android applications.
 
